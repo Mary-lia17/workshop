@@ -1,0 +1,34 @@
+.exp{
+    float: center;
+    padding-left: 350px;
+    COLOR:#cd853f;
+    font-weight: bold;
+}
+
+.names{
+    float: center;
+    padding-left: 590px;
+    COLOR:#cd853f;
+    font-weight: bold;
+    justify-content: left;
+}
+
+.lastname{
+    float: center;
+    padding-left: 430px;
+    COLOR:#cd853f;
+    font-weight: bold;
+    justify-content: left;
+}
+
+.title{
+    padding-top: 120px;
+    float: center;
+    padding-left: 600px;
+}
+
+.img{
+    width: 30px;
+    height: 70px;
+
+}
